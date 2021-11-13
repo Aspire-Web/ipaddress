@@ -7,7 +7,7 @@
 }
 
 div.App {
-  background-color: rgb(35, 201, 212);
+  background-color: rgb(236, 165, 118);
   margin-top: 73px;
 }
 div.detail,
@@ -19,6 +19,7 @@ div.map {
   margin-top: 20px;
   position: relative;
   right: 305px;
+  height: 429px;
 }
 
 img {
